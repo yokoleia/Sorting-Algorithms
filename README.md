@@ -1,5 +1,5 @@
 # CAB301 A2
-> A testing and analysis tool for two Median algorithms for CAB301,
+> A testing and analysis tool for the time complexity and number of basic operations of two Median algorithms for CAB301 - Algorithms & Complexity
 
 ## Context:
 Both Median Algorithms were provided by the unit and were derived from the following well known algorithms.
