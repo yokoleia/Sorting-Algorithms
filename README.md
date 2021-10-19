@@ -1,4 +1,4 @@
-# CAB301 A2
+# Sorting-Algorithms | CAB301 A2
 > A testing and analysis tool for the time complexity and number of basic operations of two Median algorithms for CAB301 - Algorithms & Complexity
 
 ## Context:
